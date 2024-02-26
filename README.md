@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I bring 2 years of hands-on experience in Flutter development to the table, along with expertise in Dart, Java, and problem-solving.
+- 🔭 I bring 2 years of hands-on experience in Flutter development to the table, along with expertise in Dart, Java, Data Structure, and problem-solving.
 - 🚀 Whether it's building stunning UIs, optimizing performance, or solving intricate coding puzzles, I thrive on the challenges that come with creating top-notch mobile experiences.
 - 📱 When I'm not immersed in code, you'll find me exploring the latest trends in mobile app design, contributing to open-source projects.
   
